@@ -148,8 +148,6 @@ Medical-Image-Enhancer/
 │   └── tb_salt_pepper_removal.v
 │
 ├── README.md
-├── Project_Abstract.pdf
-└── Verilog_all_code.pdf
 ```
 
 ## Simulation and Execution
